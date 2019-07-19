@@ -1,0 +1,73 @@
+body {
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+}
+
+#first_div {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+  align-items: center;
+
+  border-width: thick;
+  border-style: double;
+  border-color: black 99% ;
+  height: auto;
+  width: 90% ;
+  background: rgb(2,100,155);
+}
+
+#second_div{
+  height: 50%;
+}
+
+#input{
+  width: 60%;
+  height: 1cm;
+  font-size: 2em;
+
+  border-radius: 1cm;
+  margin: auto;
+  display: block;
+  text-align: center;
+  background: lightblue;
+  border-color: white;
+
+}
+
+
+#button{
+  display: block;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 2cm ;
+  font-size: 2em;
+  background-color: lightblue;
+  border-radius: 1cm;
+
+}
+
+#button:hover{
+  
+}
+
+p{
+  margin: auto;
+  margin-top: 5%;
+  text-align: center;
+  height: auto;
+  font-size: 2em;
+
+}
+
+#score{
+
+}
