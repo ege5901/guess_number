@@ -1,0 +1,1 @@
+alert("oşş geldin beyaaa");
